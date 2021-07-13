@@ -1,0 +1,14 @@
+52a91a4db7df19fc580287b0b14178c8 *DESCRIPTION
+782110033e0e8c687e5c791d0238d8e2 *NAMESPACE
+134326e7b80e007028fe0924301416bf *R/Bsplines.R
+953fad5a933110c9697dac3ecb7c4939 *R/D1Bsplines.R
+eff68379961e024df4ea38fb4fcb0f6a *R/D2Bsplines.R
+7b245637cee5a703d80c5f7d21fa0519 *R/IBsplines.R
+15a470389a6a19095432cd88a941541e *R/trapeze.R
+924cdf3cd4a811df84fe53817e54a6fb *man/Bsplines.Rd
+4f8f8f9852a081b3cf187e19abe661ee *man/D1Bsplines.Rd
+a6e010c16f9021210600088a3b4440e4 *man/D2Bsplines.Rd
+6ffea1cd55c20fbc63327d98db1e95cb *man/IBsplines.Rd
+cd7e097ef35e6bcd18b15851021cabb1 *man/trapeze.Rd
+6a9a488ba2a43dd17446b8fcb3c10b17 *src/bsplines_general.f90
+f9ca24b5818b533661568eaf54a297fb *src/init.c
